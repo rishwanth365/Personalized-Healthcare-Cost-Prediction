@@ -94,17 +94,17 @@ The best-performing model was saved and integrated into a web application:
 ```plaintext
 project/
 ├── api/
-│   ├── main.py                     # FastAPI backend for handling predictions
+│   ├── main.py                           # FastAPI backend for handling predictions
 ├── data/
-    ├── insurance.csv               # Kaggle Insurance Dataset
+    ├── insurance.csv                     # Kaggle Insurance Dataset
 ├── frontend/
-│   ├── index.html                  # Web interface for the application
-│   ├── index.css                   # Styling for the web page
-│   ├── index.js                    # Form handling and API interaction
+│   ├── index.html                        # Web interface for the application
+│   ├── index.css                         # Styling for the web page
+│   ├── index.js                          # Form handling and API interaction
 ├── model/
-    ├── healthcare_cost_model.ipynb # Performed EDA and trained the model
-    ├── healthcare_cost_model.pkl   # Saved the trained machine learning model
-├── README.md                       # Project documentation
+    ├── healthcare-cost-prediction.ipynb  # Performed EDA and trained the model
+    ├── healthcare-cost-model.pkl         # Saved the trained machine learning model
+├── README.md                             # Project documentation
 ```
 
 ---
