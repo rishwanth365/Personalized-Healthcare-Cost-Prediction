@@ -3,7 +3,8 @@
 A comprehensive project aimed at predicting individual medical costs billed by health insurance, leveraging demographic and health-related data. This project employs various machine learning models to achieve accurate predictions and deploys a user-friendly web app for practical usage.
 
 ---
-
+![image](https://github.com/user-attachments/assets/a717f0a0-3a48-4eaf-bcfb-2d00598790aa)
+---
 ## **Steps Followed in the Project**
 
 ### **1. Problem Understanding**
@@ -101,8 +102,8 @@ project/
 │   ├── index.css                   # Styling for the web page
 │   ├── index.js                    # Form handling and API interaction
 ├── model/
-    ├── healthcare_cost_model.ipynb # EDA and training the model
-    ├── healthcare_cost_model.pkl   # Trained machine learning model
+    ├── healthcare_cost_model.ipynb # Performed EDA and trained the model
+    ├── healthcare_cost_model.pkl   # Saved the trained machine learning model
 ├── README.md                       # Project documentation
 ```
 
